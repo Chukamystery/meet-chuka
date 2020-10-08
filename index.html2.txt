@@ -8,13 +8,13 @@
 
 <body>
     <header>
-        <h1>Chukwuka Uzoho</h1>
+        <h1>Solomon Oluwatoba </h1>
     </header>
     <main>
         <section>
-            <h2>Meet Chuka</h2>
+            <h2>Meet Toba</h2>
             <img src="https://scontent.flos3-2.fna.fbcdn.net/v/t31.0-8/21950072_1638849659523715_4982900804375231988_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_eui2=AeGGWy4qu6JSU8ySnsNMshHxemmQGYsq8ad6aZAZiyrxp2LCXPhxt_mLGgFK1-lXb5CqRWbbA66DsKCzQmXfSYM-&_nc_ohc=S4oswqugSMIAX_M6KcY&_nc_ht=scontent.flos3-2.fna&oh=5ee1e58d08c7c5e9abf14d84a18fcc83&oe=5FA4B679" alt="Chicken Shawarma" width="200">
-            <p>I've been meaning to ask my parents why the gave me the name <strong>Chukwuka</strong>: for those of you who don't understand igbo, it means God is the greatest.</p>
+            <p>I've been meaning to ask my parents why the gave me the name <strong>Oluwatoba </strong>: for those of you who don't understand yoruba, it means God is king.</p>
 
             <p><strong>I guess a significant thing happened at that time hence, the couldn't stop screaming<i>incredible</i></strong>. Incredible!!!
             </p>
@@ -22,14 +22,14 @@
 
         <section>
             <h2>Growing Up</h2>
-            <p>I had most of my life so far in Owerri. From Nursery, to Primary, to Secondary even to the University</p>
+            <p>I had most of my life so far in Lagos . From Nursery, to Primary, to Secondary even to the University</p>
 
             <ol>
-                <li>Nursery School: IOGT</li>
-                <li>Primary School: Startright  </li>
-              <li>Secondary School: Government Secondary School Owerri
+                <li>Nursery School: Mayola</li>
+                <li>Primary School: Happy Children International School  </li>
+                <li>Secondary School: Jextoban Secondary School
               </li>
-              <li>University: Federal University Of Technology Owerri <a href="futo.edu.ng">F.U.T.O</a></li>
+        <li>University: National Open University <a href="nouonline.net">NOUN</a></li>
                 
             </ol>
         </section>
@@ -40,8 +40,8 @@
 
             <ul>
                 <li>Programming</li>
-                <li>Forex Trading</li>
-                <li>Drinking</li>
+                <li>Reading </li>
+                <li>Learning </li>
             </ul>
         </section>
 
@@ -51,12 +51,12 @@
                 <tr>
                     <th>Skills</th>
                     <th>Strength</th>
-                    <th>SWOT analysis</th>
+                   
                 </tr>
                 <tr>
-                    <td>Wordpress</td>
+                    <td>Coding</td>
                     <td>10</td>
-                    <td>yes</td>
+                    
                 </tr>
                 <tr>
                     <td>JavaScript</td>
@@ -64,17 +64,17 @@
                     <td>no</td>
                 </tr>
                 <tr>
-                    <td>Photoshop</td>
+                    <td>Html</td>
                     <td>1</td>
                     <td>yes</td>
                 </tr>
                 <tr>
-                    <td>Microsoft Excel</td>
+                    <td>CSS</td>
                     <td>1</td>
                     <td>yes</td>
                 </tr>
                 <tr>
-                    <td>Public Speaking</td>
+                    <td>React </td>
                     <td>2</td>
                     <td>yes</td>
                 </tr>
@@ -84,7 +84,7 @@
         <hr>
 
         <footer>
-            with &hearts; from Chuka 
+            with &hearts; from Toba 
         </footer>
     </main>
 
