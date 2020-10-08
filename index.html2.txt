@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chukwuka Uzoho</title>
+</head>
+
+<body>
+    <header>
+        <h1>Chukwuka Uzoho</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Meet Chuka</h2>
+            <img src="https://scontent.flos3-2.fna.fbcdn.net/v/t31.0-8/21950072_1638849659523715_4982900804375231988_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_eui2=AeGGWy4qu6JSU8ySnsNMshHxemmQGYsq8ad6aZAZiyrxp2LCXPhxt_mLGgFK1-lXb5CqRWbbA66DsKCzQmXfSYM-&_nc_ohc=S4oswqugSMIAX_M6KcY&_nc_ht=scontent.flos3-2.fna&oh=5ee1e58d08c7c5e9abf14d84a18fcc83&oe=5FA4B679" alt="Chicken Shawarma" width="200">
+            <p>I've been meaning to ask my parents why the gave me the name <strong>Chukwuka</strong>: for those of you who don't understand igbo, it means God is the greatest.</p>
+
+            <p><strong>I guess a significant thing happened at that time hence, the couldn't stop screaming<i>incredible</i></strong>. Incredible!!!
+            </p>
+        </section>
+
+        <section>
+            <h2>Growing Up</h2>
+            <p>I had most of my life so far in Owerri. From Nursery, to Primary, to Secondary even to the University</p>
+
+            <ol>
+                <li>Nursery School: IOGT</li>
+                <li>Primary School: Startright  </li>
+              <li>Secondary School: Government Secondary School Owerri
+              </li>
+              <li>University: Federal University Of Technology Owerri <a href="futo.edu.ng">F.U.T.O</a></li>
+                
+            </ol>
+        </section>
+
+        <section>
+            <h2>Hobbies</h2>
+            <p>A few things that I find really fascinating:</p>
+
+            <ul>
+                <li>Programming</li>
+                <li>Forex Trading</li>
+                <li>Drinking</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Skills and Competencies</h2>
+            <table border>
+                <tr>
+                    <th>Skills</th>
+                    <th>Strength</th>
+                    <th>SWOT analysis</th>
+                </tr>
+                <tr>
+                    <td>Wordpress</td>
+                    <td>10</td>
+                    <td>yes</td>
+                </tr>
+                <tr>
+                    <td>JavaScript</td>
+                    <td>6</td>
+                    <td>no</td>
+                </tr>
+                <tr>
+                    <td>Photoshop</td>
+                    <td>1</td>
+                    <td>yes</td>
+                </tr>
+                <tr>
+                    <td>Microsoft Excel</td>
+                    <td>1</td>
+                    <td>yes</td>
+                </tr>
+                <tr>
+                    <td>Public Speaking</td>
+                    <td>2</td>
+                    <td>yes</td>
+                </tr>
+            </table>
+        </section><br>
+
+        <hr>
+
+        <footer>
+            with &hearts; from Chuka 
+        </footer>
+    </main>
+
+</body>
+
+</html>
